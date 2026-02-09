@@ -32,7 +32,8 @@ This app allows users to generate strong random passwords based on selected crit
 ## 📸 Preview
 
 > Password Generator UI with options and generate/copy functionality  
-*(You can add a screenshot here later)*
+<img width="754" height="638" alt="image" src="https://github.com/user-attachments/assets/539107bb-02a7-44d6-8a80-93c774c538e9" />
+
 
 ---
 
